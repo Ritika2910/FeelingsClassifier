@@ -1,46 +1,46 @@
 **Feeling Classifiers on Amazon Reviews**
-#Overview
+**Overview**
 
-This project performs sentiment analysis on Amazon reviews using NLTK for traditional NLP techniques and Transformers for deep learning-based sentiment classification. The goal is to classify customer reviews as positive, negative, or neutral based on textual content.
+This project performs sentiment analysis on Amazon reviews using NLTK for traditional NLP techniques and Transformers for deep learning-based sentiment classification. The goal is to classify customer reviews as positive 😊, negative 😠, or neutral 😐 based on textual content.
 
-#Technologies Used
+**🔍Technologies Used**
 
-Python – Primary programming language
+🐍 Python – Primary programming language
 
-NLTK – Used for text preprocessing (tokenization, stopword removal, stemming)
+📖 NLTK – Used for text preprocessing (tokenization, stopword removal, stemming)
 
-Transformers (Hugging Face) – Used for sentiment classification using pre-trained models like BERT
+🤗 Transformers (Hugging Face) – Used for sentiment classification using pre-trained models like BERT
 
-Pandas & NumPy – For data manipulation and analysis
+📊 Pandas & NumPy – For data manipulation and analysis
 
-Matplotlib & Seaborn – For data visualization
-**Dataset**
+📈 Matplotlib & Seaborn – For data visualization
+**📂Dataset**
 
 The dataset consists of Amazon product reviews, including review text and corresponding ratings. The reviews are preprocessed and used to train/evaluate sentiment classification models.
 
-#Project Workflow
+*Project Workflow*
 
-#Data Preprocessing
+**Data Preprocessing**
 
-Tokenization and text cleaning using NLTK
+1.Tokenization and text cleaning using NLTK
 
-Stopword removal and stemming
+2.Stopword removal and stemming
 
-Converting text to numerical representations
+3.Converting text to numerical representations
 
-#Sentiment Classification
+**Sentiment Classification**
 
-Traditional approach using NLTK’s SentimentIntensityAnalyzer
+1.Traditional approach using NLTK’s SentimentIntensityAnalyzer
 
-Deep learning-based approach using pre-trained Transformer models
+2.Deep learning-based approach using pre-trained Transformer models
 
-Model evaluation using accuracy, F1-score, and confusion matrix
+3.Model evaluation using accuracy, F1-score, and confusion matrix
 
-#Results & Insights
+**Results & Insights**
 
-Comparison of traditional and deep learning methods
+1.Comparison of traditional and deep learning methods
 
-Performance evaluation and key takeaways
+2.Performance evaluation and key takeaways
 
 
 
