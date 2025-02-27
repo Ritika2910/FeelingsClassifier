@@ -1,4 +1,4 @@
-**Feeling Classifiers on Amazon Reviews**
+**Sentiment Analysis  on Amazon Reviews**
 **Overview**
 
 This project performs sentiment analysis on Amazon reviews using NLTK for traditional NLP techniques and Transformers for deep learning-based sentiment classification. The goal is to classify customer reviews as positive 😊, negative 😠, or neutral 😐 based on textual content.
